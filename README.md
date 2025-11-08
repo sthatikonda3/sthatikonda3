@@ -12,8 +12,8 @@
 - 👯 I’m looking to collaborate on **Azure Cloud and Data Engineering Projects**
 - 🤝 I’m open to discussions on **Data Lakehouse, CI/CD & Automation in Cloud**
 - 📫 Reach me at **sriakhilgupta@gmail.com**
-- ## Certifications
-- [Microsoft Certified: Fabric Data Engineer Associate](https://learn.microsoft.com/en-us/users/sriakhilguptathatikonda-0390/transcript/d5gg4bl06gyz8qp)
+- ## Certifications - [Microsoft Certified: Fabric Data Engineer Associate](https://learn.microsoft.com/en-us/users/sriakhilguptathatikonda-0390/transcript/d5gg4bl06gyz8qp)
+
 
 ---
 
